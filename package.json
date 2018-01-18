@@ -1,0 +1,23 @@
+{
+  "name": "maratonabot",
+  "version": "1.0.0",
+  "description": "Bot de aprendizagem com BotFramework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luis15/maratonaBot.git"
+  },
+  "keywords": [
+    "bot",
+    "botframework"
+  ],
+  "author": "Luis Antonio Coêlho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luis15/maratonaBot/issues"
+  },
+  "homepage": "https://github.com/luis15/maratonaBot#readme"
+}
